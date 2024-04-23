@@ -6016,6 +6016,9 @@
   "fastapi-sso": [
     "poetry"
   ],
+  "fastapi-users": [
+    "hatchling"
+  ],
   "fastapi-utils": [
     "poetry"
   ],
