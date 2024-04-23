@@ -13622,6 +13622,9 @@
     "poetry-core",
     "setuptools"
   ],
+  "pwdlib": [
+    "hatchling"
+  ],
   "pweave": [
     "setuptools"
   ],
