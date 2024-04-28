@@ -21913,6 +21913,9 @@
   "webdavclient3": [
     "setuptools"
   ],
+  "webdriver-manager": [
+    "setuptools"
+  ],
   "webencodings": [
     "setuptools"
   ],
